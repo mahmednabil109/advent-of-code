@@ -10,3 +10,6 @@
 	- day06 `python`
 	- day07 `python`
 	- day08 `python`
+
+- 2023
+	- day01 `go`, `python`, `c`
