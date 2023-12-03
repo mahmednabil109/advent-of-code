@@ -13,3 +13,4 @@
 
 - 2023
 	- day01 `go`, `python`, `c`
+	- day02 `go`, `c`
