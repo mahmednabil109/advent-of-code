@@ -15,3 +15,5 @@
 	- day01 `go`, `python`, `c`
 	- day02 `go`, `c`
 	- day03 `go`
+	- day04 `go`
+	- day05 `go`
