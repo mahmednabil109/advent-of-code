@@ -20,3 +20,4 @@
 	- day06 `go`
 	- day07 `go`
 	- day08 `go`
+	- day09 `go`
