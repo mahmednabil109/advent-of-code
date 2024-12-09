@@ -1,0 +1,10 @@
+[package]
+name = "five"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+[[bin]]
+name = "five"
+path = "main.rs"
